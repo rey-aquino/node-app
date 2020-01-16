@@ -1,0 +1,6 @@
+npm install
+
+vue ui
+
+// run server
+npm run serve
